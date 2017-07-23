@@ -1,5 +1,5 @@
 <footer>
-	<p class="copyright">&#169; 2017 Iurii Derevianko Copyright</p>	
+	<p class="copyright">Iurii Derevianko &#169; 2017</p>
 </footer>
 
 
